@@ -56,8 +56,8 @@ fn benchmark_template() {
 }
 
 #[test]
-fn benchmark_github_xxxxxx() {
-    timeit("github_xxxxxx", || {
-        main_template(solutions::github_xxxxxxx::github_xxxxxx_solution)
+fn benchmark_github_HuyDNA() {
+    timeit("github_HuyDNA", || {
+        main_template(solutions::github_HuyDNA::github_HuyDNA_solution)
     });
 }
